@@ -1,0 +1,17 @@
+body{
+    font-family: sans-serif;
+}
+
+nav{
+    outline: 1px solid yellow;
+}
+
+ul{
+    outline: 1px solid blue;
+}
+li{
+    outline: 1px solid red;
+}
+a{
+    outline: 1px solid green;
+}
